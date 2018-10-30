@@ -1,1 +1,1 @@
-# tensorflow_image_classification
+# TensorFlow Image Classification
